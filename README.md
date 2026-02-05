@@ -1,140 +1,77 @@
+<h1 align="center">🟢 RDJ TERMINAL PORTFOLIO</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+Rdj's+Terminal;Type+'help'+for+commands;MERN+Stack+%7C+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Booting+Rdj+System...;Welcome+to+Jagannath+Kashyap's+Terminal;Type+'help'+to+explore;MERN+Stack+%7C+Flutter+Developer" />
 </p>
 
-<div align="center">
-  ![Terminal](https://img.shields.io/badge/TERMINAL-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-  ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
+<hr/>
 
----
+<h2>🖥️ WHOAMI</h2>
 
-## 🖥️ **TERMINAL INTERFACE**
+<input value="whoami" readonly onclick="this.select()" />
+<input value='Jagannath "RDJ" Kashyap' readonly onclick="this.select()" />
+<input value="Role: MERN Stack & Flutter Developer" readonly onclick="this.select()" />
+<input value="Focus: Scalable Apps | Real-time Systems" readonly onclick="this.select()" />
 
-```bash
-$ whoami
-rdj@github:~$ Jagannath "RDJ" Kashyap
-├── Role: MERN Stack & Flutter Developer
-├── Status: 🟢 Available for opportunities
-├── Location: India
-└── Focus: Scalable apps & real-time systems
+<hr/>
 
-$ skills --display
-┌──────────────────────┬──────────────────────┐
-│ React.js/Next.js     │ ██████████░░░░ 90%   │
-│ Node.js/Express      │ █████████░░░░░ 85%   │
-│ MongoDB              │ ████████░░░░░░ 80%   │
-│ Flutter/Dart         │ ███████░░░░░░░ 75%   │
-│ TypeScript           │ ████████░░░░░░ 80%   │
-│ Docker               │ ██████░░░░░░░░ 70%   │
-└──────────────────────┴──────────────────────┘
+<h2>⚙️ SKILLS</h2>
 
-$ projects --list
-├── 📧 InboxAi
-│   └── AI email management (10k+ users)
-├── 🚨 Rapid Report  
-│   └── Real-time SOS system
-├── 🔐 JWT Easy Kit
-│   └── NPM package (250+ devs)
-└── 🎯 Portfolio: https://rdjkashyap.cv
+<input value="React.js / Next.js / TypeScript" readonly onclick="this.select()" />
+<input value="Node.js / Express.js / REST APIs" readonly onclick="this.select()" />
+<input value="MongoDB / PostgreSQL / Redis" readonly onclick="this.select()" />
+<input value="Flutter / Dart" readonly onclick="this.select()" />
+<input value="Docker / AWS / GCP" readonly onclick="this.select()" />
 
-$ experience --current
-💼 YesDomain.io | MERN Stack Intern (6 Months)
-   ├─ Developed full-stack MERN applications
-   ├─ Built secure RESTful APIs with Node.js
-   ├─ Optimized MongoDB schemas & queries
-   └─ Created responsive React.js interfaces
+<hr/>
 
-$ contact --info
-📧 jaykashyap283125@gmail.com
-📱 +91 74568 77315
-🌐 https://rdjkashyap.cv (Portfolio)
-🔗 https://linkedin.com/in/rdjkashyap
-🐙 https://github.com/rdjai
-🐦 https://twitter.com/rdjkashyap
+<h2>🚀 PROJECTS</h2>
 
-$ resume --download
-📄 Download: https://rdjkashyap.cv/resume
-📊 GITHUB STATS
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=rdjai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff
+<input value="InboxAi → AI-powered email management platform" readonly onclick="this.select()" />
+<input value="Rapid Report → Real-time anonymous SOS system" readonly onclick="this.select()" />
+<input value="JWT Easy Kit → JWT authentication NPM package" readonly onclick="this.select()" />
+<input value="Portfolio Terminal → Interactive terminal portfolio" readonly onclick="this.select()" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=rdjai&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff
+<hr/>
 
-https://streak-stats.demolab.com?user=rdjai&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41
+<h2>💼 EXPERIENCE</h2>
 
-</div>
-🚀 FEATURED PROJECTS
-Project	Description	Tech Stack	Status	Link
-InboxAi	AI-powered email management platform	MERN, TypeScript, AI	🟢 Live	GitHub
-Rapid Report	Real-time anonymous reporting system	MERN, Socket.io, Maps	🟢 Live	GitHub
-JWT Easy Kit	NPM package for JWT authentication	Node.js, Express, JWT	📦 Published	npm
-Portfolio Terminal	Interactive terminal portfolio	React, Vite, Tailwind	🌐 Live	View
-🛠️ TECH STACK
-yaml
-Frontend:
-  - React.js / Next.js
-  - TypeScript
-  - Tailwind CSS
-  - Flutter / Dart
+<input value="Company: YesDomain.io" readonly onclick="this.select()" />
+<input value="Role: MERN Stack Intern" readonly onclick="this.select()" />
+<input value="Built full-stack MERN applications" readonly onclick="this.select()" />
+<input value="Developed secure REST APIs" readonly onclick="this.select()" />
+<input value="Optimized MongoDB performance" readonly onclick="this.select()" />
 
-Backend:
-  - Node.js / Express.js
-  - REST APIs
-  - JWT Authentication
-  - Socket.io
+<hr/>
 
-Databases:
-  - MongoDB
-  - PostgreSQL
-  - Redis
+<h2>🏆 ACHIEVEMENTS</h2>
 
-DevOps & Tools:
-  - Docker
-  - Git / GitHub
-  - AWS / GCP
-  - Postman
-  - VS Code
-📈 CONTRIBUTION GRAPH
-https://github-readme-activity-graph.vercel.app/graph?username=rdjai&theme=react-dark&bg_color=0d1117&hide_border=true&color=00ff41&line=00ff41&point=ffffff
+<input value="Hackathon Winner (3rd Place)" readonly onclick="this.select()" />
+<input value="Mentored 280+ Students" readonly onclick="this.select()" />
+<input value="Solved 225+ DSA Problems" readonly onclick="this.select()" />
+<input value="250+ NPM Package Users" readonly onclick="this.select()" />
 
-🏆 ACHIEVEMENTS
-bash
-$ achievements --show
-├── 🏆 Hackathon Winner (3rd Place)
-├── 👨‍🏫 Mentored 280+ Students  
-├── 💻 Solved 225+ DSA Problems
-├── 🎓 Best Learner Award
-└── 📦 250+ NPM Package Users
-📫 CONNECT WITH ME
-<div align="center">
-https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=react&logoColor=00FF41
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-%25231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<hr/>
 
-</div>
-💻 TERMINAL COMMANDS CHEATSHEET
-bash
-# Visit my portfolio
-$ open https://rdjkashyap.cv
+<h2>📫 CONTACT</h2>
 
-# Connect on LinkedIn  
-$ open https://linkedin.com/in/rdjkashyap
+<input value="jaykashyap283125@gmail.com" readonly onclick="this.select()" />
+<input value="https://rdjkashyap.cv" readonly onclick="this.select()" />
+<input value="https://linkedin.com/in/rdjkashyap" readonly onclick="this.select()" />
+<input value="https://github.com/rdjai" readonly onclick="this.select()" />
+<input value="https://twitter.com/rdjkashyap" readonly onclick="this.select()" />
 
-# Check my code
-$ git clone https://github.com/rdjai
+<hr/>
 
-# Send me an email
-$ mailto:jaykashyap283125@gmail.com
-<div align="center">
-"Building scalable applications with optimized REST APIs and real-time systems."
-https://komarev.com/ghpvc/?username=rdjai&color=00ff41&style=flat-square
+<h2>🧠 TERMINAL COMMANDS</h2>
 
-Last Updated: February 2025
+<input value="open https://rdjkashyap.cv" readonly onclick="this.select()" />
+<input value="open https://linkedin.com/in/rdjkashyap" readonly onclick="this.select()" />
+<input value="git clone https://github.com/rdjai" readonly onclick="this.select()" />
+<input value="mailto:jaykashyap283125@gmail.com" readonly onclick="this.select()" />
 
-</div> ```
+<hr/>
+
+<p align="center">
+Building scalable applications with optimized APIs and real-time systems.
+</p>
