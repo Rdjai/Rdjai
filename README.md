@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jagannath (RDJ) Kashyap</h1>
+<h1 align="center">Hi 👋 I'm RDJ Kashyap</h1>
 <h3 align="center">Full-Stack MERN & Flutter Developer | Real-Time Systems Builder</h3>
 
 <p align="center">
