@@ -75,7 +75,7 @@ whoami
 ## 🏆 Achievements
 
 - 🏆 Hackathon Winner (3rd Place)  
-- 👨‍🏫 Mentored 280+ Students  
+- 👨‍🏫 Mentored 600+ Students  
 - 💻 Solved 225+ DSA Problems  
 - 📦 250+ Developers using my NPM package  
 
