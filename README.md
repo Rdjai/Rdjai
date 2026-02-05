@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm RDJ Kashyap</h1>
-<h3 align="center">Full-Stack MERN & Flutter Developer | Real-Time Systems Builder</h3>
+<h1 align="left">Hi 👋 I'm RDJ Kashyap</h1>
+<h3 align="left">Full-Stack MERN & Flutter Developer | Real-Time Systems Builder</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;REST+APIs+%7C+Real-time+Systems;MERN+Stack+%7C+Flutter+Developer;Open+to+Opportunities" />
-</p>
+</p> -->
 
 ---
 
@@ -61,10 +61,10 @@ whoami
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdjai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdjai&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rdjai&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
